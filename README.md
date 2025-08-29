@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @Ajayprajapat01
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently Data Science
-- 💞️ I’m looking to collaborate on a project, share specific ideas and goal want to do.
-<!---
-Ajayprajapat01/Ajayprajapat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi 👋, I'm Ajay!
+
+🚀 A passionate **Data Science & AI Enthusiast** from India.  
+💡 I work with **Machine Learning, Deep Learning, and Data Analytics** to build intelligent solutions.  
+📊 Love turning raw data into actionable insights.  
+
+---
+
+### 🔹 About Me
+- 🌱 Currently learning **MLOps & Big Data**
+- 🔭 Working on **AI + Cloud Projects**
+- 💬 Ask me about **Python, SQL, Machine Learning, NLP**
+- 📫 How to reach me: **mrajayprajapat6@gmail.com**
+- ⚡ Fun fact: *I debug my code more than I sleep 😆*
+
+---
+
+### 🔹 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/ajayprajapat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+<a href="https://twitter.com/ajay"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/></a>
+<a href="mailto:mrajayprajapat6@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>
+</p>
+
+---
+
+### 🔹 Languages & Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+---
+
+### 🔹 Featured Projects
+- 📌 [Customer Churn Prediction](https://github.com/ajayprajapat/churn-prediction) – ML project predicting customer retention.
+- 📌 [Twitter Sentiment Analysis](https://github.com/ajayprajapat/twitter-sentiment) – NLP with LSTM.
+- 📌 [Stock Market Prediction](https://github.com/ajayprajapat/stock-predictor) – Time-series forecasting using RNNs.
+
+---
+
+⭐️ From [Ajay Prajapat](https://github.com/Ajayprajapat01)
